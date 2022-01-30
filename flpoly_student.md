@@ -1,27 +1,27 @@
-## First Name Last Name
+## Thomas Risalvato
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Science
 
-- Course 2
+- Comparative dimensions of Business
 
-- Course 3
+- Operations Research
 
-- Course 4
+- Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Sports
 
-- Thing 2
+- Cars
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Thing 3 as shown in this website <https://www.tesla.com/>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
